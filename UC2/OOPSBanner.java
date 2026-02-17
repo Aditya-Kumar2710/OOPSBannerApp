@@ -10,5 +10,5 @@ public class OOPSBanner {
         System.out.println("**     **" + " " +"**     **"+" "+"**       "+" "+"      **");
         System.out.println(" **   ** " + " " +" **   ** "+" "+"**       "+" "+"     ** ");
         System.out.println("   ***   " + " " +"   ***   "+" "+"**       "+" "+" *****");
-    }
+}
 }
