@@ -1,5 +1,5 @@
 package UC7;
-public class UC7OOPSBanner {
+public class OOPSBannerApp7 {
     static class CharacterPatternMap {
 
         private char character;
